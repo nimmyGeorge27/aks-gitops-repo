@@ -1,0 +1,3 @@
+image:
+  repository: nimmyacr.azurecr.io/node-app
+  tag: "1"
